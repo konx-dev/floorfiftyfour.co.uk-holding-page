@@ -1,5 +1,5 @@
 <template>
-  <div class="h-auto md:h-full bg-black py-10 md:py-20">
+  <div class="h-auto md:h-full hero-image py-10 md:py-20">
     <div class="container mx-auto max-w-4xl text-white">
       <div class="w-32 h-32 mx-auto mb-4">
         <img
@@ -51,4 +51,10 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.hero-image {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),
+    url("../assets/images/bckground_01.jpg");
+  background-size: contain;
+}
+</style>
