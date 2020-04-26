@@ -34,7 +34,7 @@
               value=""
             />
           </div>
-          <div class="clear mt-6">
+          <div class="clear font-display mt-6">
             <input
               type="submit"
               value="Subscribe"
