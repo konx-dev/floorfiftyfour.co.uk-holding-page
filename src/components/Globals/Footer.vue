@@ -1,6 +1,6 @@
 <template>
     <div class="py-4 container mx-auto">
-        <div class="flex flex-row justify-center items-center py-10 md:py-40">
+        <div class="flex flex-row justify-center items-center py-10">
             <a href="https://www.reddit.com/r/RJHuntWrites/" target="_blank" rel="nofollow" class="icon-circle icon-circle--reddit mx-4 hover:bg-black">
                 <font-awesome-icon :icon="['fab', 'reddit-alien']" />
             </a>
