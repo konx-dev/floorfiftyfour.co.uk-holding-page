@@ -7,10 +7,9 @@
 </template>
 
 <script>
-
-import Hero from "../components/Hero.vue"
-import Tiles from "../components/Tiles.vue"
-import Tile from "../components/Tile.vue"
+import Hero from "../components/Hero.vue";
+import Tiles from "../components/Tiles.vue";
+import Tile from "../components/Tile.vue";
 
 export default {
   name: "Home",
