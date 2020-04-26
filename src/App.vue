@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <global-header></global-header>
     <router-view />
     <global-footer></global-footer>
   </div>
@@ -8,12 +7,10 @@
 
 <script>
 
-import Header from './components/Globals/Header.vue'
 import Footer from './components/Globals/Footer.vue'
 
 export default {
   components: {
-    'global-header': Header,
     'global-footer': Footer
   }
 }
