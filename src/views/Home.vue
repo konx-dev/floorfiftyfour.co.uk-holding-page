@@ -6,7 +6,7 @@
 
 <script>
 
-import Hero from '../components/Hero.vue'
+import Hero from "../components/Hero.vue";
 
 export default {
   name: "Home",
