@@ -53,6 +53,7 @@ export default {
 
 <style lang="scss" scoped>
 .hero-image {
+  background: black;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),
     url("../assets/images/bckground_01.jpg");
   background-size: contain;
