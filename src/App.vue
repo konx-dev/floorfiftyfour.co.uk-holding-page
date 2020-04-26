@@ -23,5 +23,11 @@ export default {
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+.img--responsive {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 
 </style>
