@@ -1,4 +1,6 @@
-# landing-page
+# floorfiftyfour.co.uk - holding page
+
+The first version of the site built with Vue.js as a holding page while the main site was in development. The site is now live and this holding page and the repo have been archived
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
